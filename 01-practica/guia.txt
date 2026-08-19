@@ -1,0 +1,23 @@
+Debes dirigirte al sitio oficial virtualbox.org y seleccionar la opción Download 
+ existen instaladores específicos según tu sistema operativo (Windows, macOS para Intel o Apple, Linux, entre otros) 
+Instalación: Tras ejecutar el archivo descargado, 
+el proceso es sencillo: debes aceptar los términos, elegir la carpeta de instalación (por defecto es la recomendada) 
+Configuración: Durante el proceso, el asistente te advertirá que la conexión a internet podría interrumpirse temporalmente  
+Es importante desmarcar opciones adicionales que no sean necesarias durante la instalación 
+Finalización: Una vez completada, puedes optar por iniciar VirtualBox inmediatamente al finalizar o hacerlo más tarde desde el escritorio o 
+el menú de inicio
+una vez instalado deberas de descargar la version ISO Ubuntu 1.16 ( o si es de tu preferencia la version actual) 
+si la opción de virtualización está habilitada en el CPU, requisito indispensable para que funcione el programa.
+Creación de la Máquina Virtual Detalla cómo configurar el nombre del sistema, asignar memoria RAM, crear un disco duro virtual y definir 
+el almacenamiento
+ (dinámico vs. fijo).
+Ejecución y Configuración  Muestra cómo seleccionar la imagen ISO del sistema operativo que deseas instalar y cómo ajustar la pantalla a 
+"modo escalado" para trabajar cómodamente en pantalla completa.
+Una vez hecho eso deberas hacer una maquina virtual (poniendo el nombre "Juanito" y una contaseña "Juanipro132")ya que estarias teniendo asegurado 
+tanto tu proyeto cómo tu maquina
+Una vez teniendo todo listo se abrira una pequeña pantallita que es llamada "terminal" que indicara que esta corriendo perfectamente la maquina 
+despues para llevar seguimiento a tus proyectos se llevara acabo una plataforma llamada "github.com" que servira para poder llevar 
+tu carpeta virtual 
+donde tienes tus evidencias de que tu hiciste tal codigo etc 
+una vez hecho eso se isnatalara Git que es una herrramenita usada para poder controlar las versiones del codigo en tu computadora io lap
+es mas usado en el desarrollo del software por que nos permite buscar cambios revertir errores al momento de programar 
